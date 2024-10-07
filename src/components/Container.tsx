@@ -37,6 +37,10 @@ const variants = {
 };
 
 const navLinks = [
+  { href: "https://leetcode.com/u/surbhikuhar/", text: "Leetcode" },
+  { href: "https://www.linkedin.com/in/surbhi-kuhar-988b46228/", text: "LinkedIn" },
+  { href: "https://github.com/surbhi-kuhar", text: "GitHub" },
+  { href: "https://www.geeksforgeeks.org/user/surbhi1989be21/", text: "GeeksForGeeks" },
   { href: "#home", text: "Home" },
   { href: "#about", text: "About" },
   { href: "#projects", text: "Projects" },
